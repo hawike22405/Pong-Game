@@ -11,8 +11,8 @@
     "dist": "electron-builder"
   },
   "devDependencies": {
-    "electron": "^latest",
-    "electron-builder": "^latest"
+    "electron": "^28.0.0",
+    "electron-builder": "^24.6.4"
   },
   "build": {
     "appId": "com.ponggame.app",
